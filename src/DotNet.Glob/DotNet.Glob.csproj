@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard1.1;netstandard2.1;netcoreapp2.1;net45;net46;net4</TargetFrameworks>
+    <TargetFrameworks>net45;net46;net4;net6;net8;</TargetFrameworks>
     <AssemblyName>DotNet.Glob</AssemblyName>
     <OutputType>Library</OutputType>
     <PackageId>DotNet.Glob</PackageId>
